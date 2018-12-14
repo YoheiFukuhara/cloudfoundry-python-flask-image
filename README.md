@@ -1,5 +1,4 @@
 # Sample Flask application for Cloud Foundry
 ## About this application
-This is a sample application to output log from python application on Cloud Foundry (CF).
-Please keep the support condition in ["SAP/cf-python-logging-support" repository](https://github.com/SAP/cf-python-logging-support#features).
+This is a sample application to receive image file via http post request and return the image data with RGB 3 dimensions.
 
